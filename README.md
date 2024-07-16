@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# ConfigCat and Mixpanel integration React App
+
+This is a companion sample application for [Integrating ConfigCat and Mixpanel Analytics's]() article.
+
+This sample app is an implemention of a React application that enables you integrate ConfigCat and Mixpanel analytics tool.
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
